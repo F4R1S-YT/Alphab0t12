@@ -1,6 +1,6 @@
 {
     "self_mode": false,
-	"autobio": false,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
@@ -9,12 +9,12 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
+	"ownerNumber": "60176849904",
+	"ownerNumberr": "60176849904",
 	"cr": "@ZeeoneOfcོ",
-	"ownername": "ZeeoneOfcོ",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownername": "F4R1S",
+	"botname":"F4-BOT",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfcོ"
+	"fake": " 「  F4-BOT  」\nCreated By @F4R1S"
 }
